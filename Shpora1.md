@@ -125,8 +125,12 @@ ___
 
 [1]: https://skillbox.ru/media "Перейди"
 [code]: https://skillbox.ru/media/code/
-![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
-![Изображение][1]
+
+![Изображение](https://images.cybersport.ru/images/as-is/plain/47/4781afd1-333b-43f2-a539-5bd14d520f0e.png "Пятерик")
+
+
+
+![Изображение](img/i.webp)
 
 
 [1]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown"
